@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="obl1">
+      <HintPath>..\..\..\obl1\obl1\bin\Debug\net6.0\obl1.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>
